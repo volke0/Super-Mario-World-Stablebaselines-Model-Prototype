@@ -1,6 +1,6 @@
 import retro
 from stable_baselines.common import make_vec_env
-from stable_baselines import PPO2
+from stable_baselines import A2C
 from stable_baselines.common.policies import CnnPolicy
 from stable_baselines.common.vec_env import SubprocVecEnv, DummyVecEnv, VecFrameStack, VecNormalize
 import numpy as np
