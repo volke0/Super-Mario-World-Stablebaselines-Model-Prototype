@@ -24,5 +24,5 @@ if __name__ == "__main__":
         save_freq=1000, save_path='save location of your choice',)
 
     model.learn(total_timesteps=90_000_000, callback=checkpoint_callback)
-    model.save('mario-ppo2')
+    model.save('a2c-SuperMarioWorld-Snes')
     env.close()
