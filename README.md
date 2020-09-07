@@ -11,10 +11,12 @@ Simply run play-mario.py with the model named a2c-SuperMarioWorld-Snes.zip provi
 
 
 How to train?
+
 Simply fiddle with the training parameters in train-mario.py or just simply run the script.
 
 
 Credits to OpenAI and the Stablebaselines Team for the awesome modules!
+
 And Lucas Thompson and Will Kwan for their great youtube tutorials and for basing my code of off theirs'. 
 Lucas Thompson's video (https://youtu.be/QqYSfclTO1c)
 Will Kwan's video (https://youtu.be/-oUVr_B_cQo)
