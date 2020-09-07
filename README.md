@@ -4,10 +4,11 @@ Hi, this is Volke0, this is my project's code for playing/training a RL agent on
 
 How to play:
 Make sure you have all the required modules pip installed:
-  *retro
-  *gym
-  *stable_baselines (going to need to do more to run this on windows, I recommended reading the documentation here for how to install https://stable-baselines.readthedocs.io/en/master/guide/install.html
-  *numpy*
+  
+  retro
+  gym
+  stable_baselines (going to need to do more to run this on windows, I recommended reading the documentation here for how to install https://stable-baselines.readthedocs.io/en/master/guide/install.html
+  numpy
  
   
 Simply run play-mario.py with the model named a2c-SuperMarioWorld-Snes.zip provided in the source code.
