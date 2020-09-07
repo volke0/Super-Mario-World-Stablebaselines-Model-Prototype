@@ -1,0 +1,44 @@
+{
+  "crop": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "done": {
+    "nodes": {
+      "subnodeName": {
+        "variables": {
+          "dead": {
+            "op": "equal"
+          }
+        }
+      }
+    },
+    "variables": {
+      "lives": {
+        "op": "equal",
+        "reference": -1
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "checkpoint": {
+        "reward": 1.0
+      },
+      "endOfLevel": {
+        "reward": 2000.0
+      },
+      "powerups": {
+        "reward": 1.0
+      },
+      "score": {
+        "reward": 1.0
+      },
+      "x": {
+        "reward": 0.10000000149011612
+      }
+    }
+  }
+}
