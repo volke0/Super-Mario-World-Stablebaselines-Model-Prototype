@@ -10,7 +10,7 @@ How to play:
 
 2. Afterwards, take the SuperMarioWorld-Snes folder and drop it in \retro\data\stable and replace the existing folder. 
 
-3. In order to play this model you need a LEGAL ROM file of Super Mario World.  After you obtain your LEGAL ROM file, rename it to rom and drop it in your SuperMarioWorld-Snes folder.
+3. In order to play this model you need a LEGAL ROM file of Super Mario World.  After you obtain your LEGAL ROM file, rename it to "rom" without the quotation marks and drop it in your SuperMarioWorld-Snes folder.
 
 4. Optional: If you are running the model that I used for testing go to this link and download it (for it's too big to upload on GitHub): 
 https://drive.google.com/file/d/1fHe7nZaiQpIhAOEk3vkTHOyehnaQTjaZ/view?usp=sharing
