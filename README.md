@@ -29,3 +29,4 @@ Credits to OpenAI and the Stablebaselines Team for the awesome modules!
 And Lucas Thompson and Will Kwan for their great youtube tutorials and for basing my code of off theirs'. 
 Lucas Thompson's video (https://youtu.be/QqYSfclTO1c)
 Will Kwan's video (https://youtu.be/-oUVr_B_cQo)
+Also, SethBling for the inspiration to into coding and machine learning!
