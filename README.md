@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1fHe7nZaiQpIhAOEk3vkTHOyehnaQTjaZ/view?usp=shari
   
 5. Finally, run play-mario.py with the model named a2c-SuperMarioWorld-Snes.zip provided in the source code.
 
+6. OR you can just watch the test.mp4 to see it in action :)
 
 How to train?
 
