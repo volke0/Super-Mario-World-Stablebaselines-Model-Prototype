@@ -2,6 +2,9 @@
 
 Hi, this is Volke0, this is my project's code for playing/training a RL agent on Super Mario World on the SNES. The agent was trained using A2C on a CNN (convolutional neural network) on 10 environments simultaneously for 120,000,000 time steps on Donut Plains 1. 
 
+
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:87.31%;position:relative;"><iframe width="260" height="227" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4eb3nj"></iframe></div><p><a href="https://imgflip.com/gif/4eb3nj">via Imgflip</a></p></div>
+
 This project is incomplete, as I am currently testing other methods besides using A2C to train the agent to play the game.  The model provided can play Donut Plain 1 almost perfectly, however it did not generalize too well.  Feel free to train the model yourself and edit the code to help improve this project!
 
 How to play:
