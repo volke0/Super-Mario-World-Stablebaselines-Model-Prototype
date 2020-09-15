@@ -1,4 +1,4 @@
-# RL Agent for Super-Mario-World-Stablebaselines-Model-Prototype
+# RL Agent for Super-Mario-World(SNES)-Prototype
 
 Hi, this is Volke0, this is my project's code for playing/training a RL agent on Super Mario World on the SNES. The agent was trained using A2C on a CNN (convolutional neural network) on 10 environments simultaneously for 120,000,000 time steps on Donut Plains 1. 
 
